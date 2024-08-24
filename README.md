@@ -1,3 +1,3 @@
-## End to End Machine Learning Project. 
+# End to End Machine Learning Project. 
 
-# Student Marks Prediction
+## Student Marks Prediction
