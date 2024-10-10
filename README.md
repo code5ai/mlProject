@@ -1,4 +1,5 @@
 **You can visit the website to predict your marks [here](https://student-marks-prediction-rqu8.onrender.com)**
+P.S - I thank you for your patience as the website is terribly slow at the moment
 
 # Student Marks Prediction
 
